@@ -1,4 +1,4 @@
-# VPM Package Listing Template
+# WACOMalt's VCC Listing Repo
 
 Starter for making your own Package Listings, including automation for building and publishing them.
 
